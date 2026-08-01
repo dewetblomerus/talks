@@ -37,13 +37,13 @@ theme: default
 
 </style>
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 # Building a Globally Distributed Router in Elixir
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Why did we, and why might you need a router?
 
@@ -53,23 +53,23 @@ theme: default
 
 ---
 
-![bg contain](https://f000.backblazeb2.com/file/elixirconf-23/1-1-dalle.png)
+![bg contain](images/1-1-dalle.png)
 
 ---
 
-![bg contain](https://f000.backblazeb2.com/file/elixirconf-23/2-1-dalle.png)
+![bg contain](images/2-1-dalle.png)
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/1-before-router.png)
+![bg](images/1-before-router.png)
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/2-with-router.png)
+![bg](images/2-with-router.png)
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Requirements
 
@@ -77,7 +77,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Requirements
 
@@ -86,7 +86,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Requirements
 
@@ -96,7 +96,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Approach
 
@@ -110,7 +110,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Approach
 
@@ -119,7 +119,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Approach
 
@@ -129,7 +129,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Elixir Strengths
 
@@ -139,7 +139,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Elixir Strengths
 
@@ -148,7 +148,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Falling in the pit of success, in our `router.ex` file.
 
@@ -165,7 +165,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Elixir Strengths
 
@@ -175,11 +175,11 @@ theme: default
 
 ---
 
-![bg contain](https://f000.backblazeb2.com/file/elixirconf-23/Non-proxy-time-spent-in-Randalf.png)
+![bg contain](images/Non-proxy-time-spent-in-Randalf.png)
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Pitfalls
 
@@ -187,7 +187,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Pitfalls
 
@@ -196,7 +196,7 @@ theme: default
 
 ---
 
-![bg](https://f000.backblazeb2.com/file/elixirconf-23/template-%E2%80%8E001.jpeg)
+![bg](images/template-001.jpeg)
 
 ## Pitfalls
 
