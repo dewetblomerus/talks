@@ -1,0 +1,21 @@
+I want listeners to feel equipped to start building a Router.
+
+- Why did we need/might you need this Router?
+- Requirements
+	- Can route a login request to the correct region.
+	- Source of truth for unique email and to which team that email belongs.
+	- Zero downtime rollout.
+	- Distributed. A router anywhere in the world can make a routing decision without making a request to another region.
+- Approach
+	- Reverse Proxy.
+	- Single Postgres database in one region, this solves uniqueness.
+	- Cache in all regions, this solves fast lookups.
+	- Kafka topic to link Emails to Teams and Teams to Regions, this solves globally distributing the data and updating the cache.
+- Elixir Strengths
+	- Holding on to Connections
+	- Plug architecture places the pit of success right in front of you.
+	- Adds minimal latency
+- Pitfalls
+	- Hop-by-hop headers
+	- Flexing how much we can do with very little resources
+	- I spent a lot of time thinking about routing speed
