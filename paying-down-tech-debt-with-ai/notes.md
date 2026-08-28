@@ -22,6 +22,7 @@ I want to motivate conference goers to look for opportunities to use AI to pay d
     - If it's fast and high benefit, call an incident. (If it is late in the business day, call the incident tomorrow morning)
 
 ## Outline
+- Political capital. 
 - What AI software development means for tech debt.
   - We are building faster, so we are accruing debt faster.
 - Why AI software development is not going away.
@@ -32,3 +33,7 @@ I want to motivate conference goers to look for opportunities to use AI to pay d
   - Cyclic Dependencies
   - Test flakes
   - Jason -> JSON
+
+## Exact words
+- Political Capital
+Every engineer in this room has a mental backlog of tech debt that they know exactly how to fix. And every engineer in this room has been told the exact same thing. Not now, let's first get XYZ feature out the door. Tech debt remaining unpaid long after it's identified, has never been a technical problem, it's a political one. 
