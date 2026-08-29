@@ -38,7 +38,7 @@ I want to motivate conference goers to look for opportunities to use AI to pay d
 - Political Capital
 Every engineer in this room has a mental backlog of tech debt that they know exactly how to fix. And every engineer in this room has been told the exact same thing. Not now, let's first get XYZ feature out the door. Tech debt remaining unpaid long after it's identified, has never been a technical problem, it's a political one. 
 
-## Thesis: The leverage moved from your hands to your mouth
+## Thesis: The leverage moved from your hands to your head
 
 ### The good news: some debt is now trivially cheap to pay
 Some types of tech debt are so easy to define for an AI agent that you can hand them off in seconds, with no political capital required:
