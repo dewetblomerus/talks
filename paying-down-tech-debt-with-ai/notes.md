@@ -6,12 +6,6 @@ The leverage moved from your hands to your head.
 Everything in this talk supports that claim.
 
 ## Ideas
-- All the regular risk/reward structures apply.
-- Debt can be paid off too aggressively.
-- Money-making activities can be approached too aggressively.
-- Is it debt, or is it just bills? Are you in debt, or are your fixed costs just too high? Either could have you - living paycheck to paycheck.
-- Do you have debt, or do you have lifestyle creep?
-- Software ages like milk, not like wine.
 - In tech, when does an unpaid bill become debt?
 - I like the term "buzzword compliant"
 - Ukelele factor
