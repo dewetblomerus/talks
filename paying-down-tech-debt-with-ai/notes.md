@@ -7,12 +7,9 @@ Everything in this talk supports that claim.
 
 ## Ideas
 - I like the term "buzzword compliant"
-- Something that used to be an asset, that has become a liability. 
-- Assets that are difficult to remove. Like P2P
 - A matrix with 4 quadrants
   - If it is slow and low benefit, make a Jira ticket and never do it. 
   - If it's fast and high benefit, call an incident. (If it is late in the business day, call the incident tomorrow morning)
-- The word "debt" works against you with business leaders. Consumer debt is always bad; business debt against an asset is leverage they believe they can outgrow. So "we have tech debt" lands as "we're being responsible," not "we're in trouble" — they hear minimum payments as fine. The move: stop calling it debt. Call it a liability, high-interest debt, or a drag on productivity — language the business already treats as a problem. Even if the industry keeps saying tech debt, for how we think and talk about it, use the words that make them feel the compounding cost.
 
 ## Outline
 - Thesis: The leverage moved from your hands to your head
@@ -28,6 +25,7 @@ Everything in this talk supports that claim.
   - The rename: stop calling it debt — call it a liability, high-interest debt, or a drag on productivity
     - The word "debt" works against you with business leaders; the new words only work if you're selective with them.
     - Software ages like milk, not wine: on-time dependency updates are maintenance, late updates stack breaking changes and lock you out of security fixes.
+    - Some things that used to be an asset have become a liability: a customer-facing feature users already rely on. AI makes shipping features faster, so the pile of "we shipped it, now we're stuck with it" grows faster too. It's the only debt where paying it down has a visible cost to users, not just to engineers — removing it is a product decision wearing an engineer's hat.
   - The closing thesis
 - How I have used it to pay down tech debt.
   - Terraform
@@ -83,6 +81,8 @@ The word "debt" works against you with business leaders. Consumer debt is always
 That responsibility cuts both ways: you cannot overstate the problem. Not everything lumped under tech debt today is a liability. Some of it you just hand to an agent at the start or end of the day and you're done. The rename only works if you're selective with it — call the cheap stuff cheap and the expensive stuff expensive, or the business stops believing either label.
 
 Software ages like milk, not wine. A lot of dependencies are an asset doing work you didn't have to write by hand — updating them on time, staying no more than a few months behind, is just making your payments on time, and "debt" isn't even the right word there. It's an asset that needs maintenance. But fall six months or a year behind on a language runtime, a compiler, or your packages, and you stack breaking changes, land in version combinations the rest of the industry has never tested, and a newly found vulnerability can leave you unable to patch at all because the fix lives three major versions ahead. With money, skipping a payment just costs you more later; with software, skipping an update can lock the door.
+
+Some things that used to be an asset have become a liability. A customer-facing feature users already rely on — if you decide you no longer want to maintain it, taking it away gets you bad reviews. AI makes shipping features faster than ever, so the pile of "we shipped it, now we're stuck with it" grows faster too. It's the only kind of debt where paying it down has a visible cost to users, not just to engineers. Removing it is a product decision wearing an engineer's hat.
 
 ### The closing thesis
 The same AI that ate your leverage is the tool that pays the debt. You don't need political capital anymore because the cost collapsed — but you do need sharper people skills, because your ability to turn an idea into instructions for a computer is no longer the phenomenally valuable skill it was five years ago. Your understanding of what humans want from the software, and your ability to convince a business leader that some time must be taken out for tech debt, is where the value lives now. Engineers who can see the debt and sell the fix are the ones who keep their seats.
