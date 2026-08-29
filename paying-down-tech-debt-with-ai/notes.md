@@ -6,7 +6,6 @@ You just got two promotions — no raise, no title change, but the job descripti
 Everything in this talk supports that claim.
 
 ## Ideas
-- I like the term "buzzword compliant"
 - A matrix with 4 quadrants
   - If it is slow and low benefit, make a Jira ticket and never do it. 
   - If it's fast and high benefit, call an incident. (If it is late in the business day, call the incident tomorrow morning)
@@ -40,6 +39,8 @@ Everything in this talk supports that claim.
 Every engineer in this room has a mental backlog of tech debt that they know exactly how to fix. And every engineer in this room has been told the exact same thing. Not now, let's first get XYZ feature out the door. Tech debt remaining unpaid long after it's identified, has never been a technical problem, it's a political one. 
 
 ## Thesis: You just got two promotions
+
+You just got two promotions. No raise. No title change. No email from HR. But the job description moved up a level — and it's buzzword compliant. Keep the same title on your LinkedIn, but now you can call yourself an agent manager, a prompt engineer, whatever's trending this quarter.
 
 ### The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue
 Some types of tech debt are so easy to define for an AI agent that you can hand them off in seconds, with no political capital required:
