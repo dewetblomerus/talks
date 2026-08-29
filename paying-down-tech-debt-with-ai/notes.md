@@ -31,7 +31,7 @@ Everything in this talk supports that claim.
   - The bad news: the power dynamic is shifting
   - The real value: knowing where to go slow
   - The closing thesis
-- The mided news:
+- The mixed news:
   - We are building faster, so we are accruing debt faster.
   - The only way forward, is to get faster at paying it down.
 - Why AI software development is not going away.
