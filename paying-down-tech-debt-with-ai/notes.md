@@ -7,7 +7,7 @@ Everything in this talk supports that claim.
 
 ## Ideas
 - I like the term "buzzword compliant"
-- Ukelele factor
+- Ukelele factor: how many open source maintainers would need to discover that playing the ukulele is more fun than maintaining an open source package for your package to go unmaintained.
 - Do they see you as an ally, or do they see you as Dr. No?
 - Tech debt as a service 
 - There is nothing as permanent as a temporary fix
@@ -57,7 +57,7 @@ These work because each is a closed loop: the agent can verify its own work. Tes
 ### The bad news: the power dynamic is shifting
 Five years ago, turning a product specification into working code was a scarce, high-value skill — and that scarcity was your leverage. Today that ability is being commoditized. Productivity per engineer is up, teams ship more with fewer people, and product managers and designers are starting to open PRs themselves. The job market for software engineers is at an all-time low. None of this means the engineer is gone — it means the automatic political clout that used to come with the role is gone. The power dynamic shifted, and the old leverage no longer holds on its own.
 
-### The mixed news: we are accruing debt faster, so we have to get faster at paying it down
+### The mixed news: we are accruing debt faster, so we have have to get faster at paying it down
 We are building faster, so we are accruing debt faster. The only way forward is to get faster at paying it down. And AI software development is not going away — we can't wait for the stock market bubble to pop in order for the debt accrual to slow down.
 
 ### The real value: knowing where to go slow
