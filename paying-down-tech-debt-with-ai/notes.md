@@ -7,7 +7,6 @@ Everything in this talk supports that claim.
 
 ## Ideas
 - I like the term "buzzword compliant"
-- There is nothing as permanent as a temporary fix
 - Poor code quality, more and more difficult to maintain. 
 - Something that used to be an asset, that has become a liability. 
 - Assets that are difficult to remove. Like P2P
