@@ -31,8 +31,9 @@ Everything in this talk supports that claim.
   - The bad news: the power dynamic is shifting
   - The real value: knowing where to go slow
   - The closing thesis
-- What AI software development means for tech debt.
+- The mided news:
   - We are building faster, so we are accruing debt faster.
+  - The only way forward, is to get faster at paying it down.
 - Why AI software development is not going away.
   - This means we can't wait for the stock market bubble to pop in order for the debt accrual to slow down.
 - How I have used it to pay down tech debt.
@@ -41,6 +42,7 @@ Everything in this talk supports that claim.
   - Cyclic Dependencies
   - Test flakes
   - Jason -> JSON
+  - ALL the CI checks & local pre-commit hooks, in shared repos.
 
 ## Exact words
 - Political Capital
