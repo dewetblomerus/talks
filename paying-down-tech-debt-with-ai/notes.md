@@ -22,7 +22,12 @@ I want to motivate conference goers to look for opportunities to use AI to pay d
     - If it's fast and high benefit, call an incident. (If it is late in the business day, call the incident tomorrow morning)
 
 ## Outline
-- Political capital. 
+- Political Capital
+  - Thesis: The leverage moved from your hands to your head
+    - The good news: some debt is now trivially cheap to pay
+    - The bad news: the power dynamic is shifting
+    - The real value: knowing where to go slow
+    - The closing thesis
 - What AI software development means for tech debt.
   - We are building faster, so we are accruing debt faster.
 - Why AI software development is not going away.
