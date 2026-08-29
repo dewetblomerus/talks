@@ -48,8 +48,8 @@ Some types of tech debt are so easy to define for an AI agent that you can hand 
 
 These work because each is a closed loop: the agent can verify its own work. Tests pass, dependencies resolve, flakes stop failing. The cost of paying this debt collapsed from a sprint of negotiation to an afternoon and a prompt.
 
-### The bad news: the political will is harder to come by than it used to be
-Five years ago, the business could not build software without you. If you left, they were down a person and would struggle to replace you. Today, productivity per engineer is up a lot. They can do more with fewer engineers. Product managers and designers are starting to create PRs. The job market for software engineers is at an all-time low. The built-in, automatic political clout you used to have is gone — the business no longer needs you to produce.
+### The bad news: the power dynamic is shifting
+Five years ago, turning a product specification into working code was a scarce, high-value skill — and that scarcity was your leverage. Today that ability is being commoditized. Productivity per engineer is up, teams ship more with fewer people, and product managers and designers are starting to open PRs themselves. The job market for software engineers is at an all-time low. None of this means the engineer is gone — it means the automatic political clout that used to come with the role is gone. The power dynamic shifted, and the old leverage no longer holds on its own.
 
 ### The real value: knowing where to go slow
 The scarce skill is no longer turning ideas into code — that got cheap. What stayed expensive is knowing which ideas are worth having, and convincing someone to fund them. In 2026, the engineer's real value is understanding where we need to go slow: the technical platform that has to exist before a PM or designer can safely ship PRs.
