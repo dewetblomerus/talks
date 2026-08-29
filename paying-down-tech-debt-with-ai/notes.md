@@ -2,7 +2,7 @@
 I want to motivate conference goers to look for opportunities to use AI to pay down tech debt.
 
 ## Throughline
-The leverage moved from your hands to your head.
+You just got two promotions — no raise, no title change, but the job description moved up a level.
 Everything in this talk supports that claim.
 
 ## Ideas
@@ -12,7 +12,7 @@ Everything in this talk supports that claim.
   - If it's fast and high benefit, call an incident. (If it is late in the business day, call the incident tomorrow morning)
 
 ## Outline
-- Thesis: The leverage moved from your hands to your head
+- Thesis: You just got two promotions
 - The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue
   - The good news: some debt is now trivially cheap to pay
   - The bad news: the power dynamic is shifting
@@ -39,7 +39,7 @@ Everything in this talk supports that claim.
 - Political Capital
 Every engineer in this room has a mental backlog of tech debt that they know exactly how to fix. And every engineer in this room has been told the exact same thing. Not now, let's first get XYZ feature out the door. Tech debt remaining unpaid long after it's identified, has never been a technical problem, it's a political one. 
 
-## Thesis: The leverage moved from your hands to your head
+## Thesis: You just got two promotions
 
 ### The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue
 Some types of tech debt are so easy to define for an AI agent that you can hand them off in seconds, with no political capital required:
