@@ -30,13 +30,15 @@ Everything in this talk supports that claim.
 - Thesis: The leverage moved from your hands to your head
   - The good news: some debt is now trivially cheap to pay
   - The bad news: the power dynamic is shifting
+  - The mixed news: we are accruing debt faster, so we have to get faster at paying it down
+    - We are building faster, so we are accruing debt faster.
+    - The only way forward is to get faster at paying it down.
+    - Why AI software development is not going away — we can't wait for the stock market bubble to pop for the debt accrual to slow down.
   - The real value: knowing where to go slow
+  - The rename: stop calling it debt — call it a liability, high-interest debt, or a drag on productivity
+    - The word "debt" works against you with business leaders; the new words only work if you're selective with them.
+    - Software ages like milk, not wine: on-time dependency updates are maintenance, late updates stack breaking changes and lock you out of security fixes.
   - The closing thesis
-- The mixed news:
-  - We are building faster, so we are accruing debt faster.
-  - The only way forward, is to get faster at paying it down.
-- Why AI software development is not going away.
-  - This means we can't wait for the stock market bubble to pop in order for the debt accrual to slow down.
 - How I have used it to pay down tech debt.
   - Terraform
   - Scripts to edit DataDog resources
@@ -62,6 +64,9 @@ These work because each is a closed loop: the agent can verify its own work. Tes
 ### The bad news: the power dynamic is shifting
 Five years ago, turning a product specification into working code was a scarce, high-value skill — and that scarcity was your leverage. Today that ability is being commoditized. Productivity per engineer is up, teams ship more with fewer people, and product managers and designers are starting to open PRs themselves. The job market for software engineers is at an all-time low. None of this means the engineer is gone — it means the automatic political clout that used to come with the role is gone. The power dynamic shifted, and the old leverage no longer holds on its own.
 
+### The mixed news: we are accruing debt faster, so we have to get faster at paying it down
+We are building faster, so we are accruing debt faster. The only way forward is to get faster at paying it down. And AI software development is not going away — we can't wait for the stock market bubble to pop in order for the debt accrual to slow down.
+
 ### The real value: knowing where to go slow
 The scarce skill is no longer turning ideas into code — that got cheap. What stayed expensive is knowing which ideas are worth having, and convincing someone to fund them. In 2026, the engineer's real value is understanding where we need to go slow: the technical platform that has to exist before a PM or designer can safely ship PRs.
 
@@ -76,6 +81,13 @@ This isn't just "don't incur debt." It's triage. Some debt is cheap to pay later
 The emerging thought I'm wrestling with: a good software engineer can triage the implementation itself. Which parts can just be vibe coded. Which parts need very careful thought. And which parts require the business to answer questions before anyone writes a line. That triage — not the typing — is the value.
 
 The thought I'm landing on: you need to become very good at realizing which types of tech debt will still be difficult to pay down even with smarter AI a year or two from now, and which types are cheap to pay down even today with today's AI. Say yes to moving fast and not caring about the cheap types. Pump the brakes and spend your political capital when you see the hard types — the ones that will be painful to fix later no matter how good the AI gets.
+
+### The rename: stop calling it debt
+The word "debt" works against you with business leaders. Consumer debt is always bad; business debt against an asset is leverage they believe they can outgrow. So "we have tech debt" lands as "we're being responsible," not "we're in trouble" — they hear minimum payments as fine. The move: stop calling it debt. Call it a liability, high-interest debt, or a drag on productivity — language the business already treats as a problem. Even if the industry keeps saying tech debt, for how we think and talk about it, use the words that make them feel the compounding cost.
+
+That responsibility cuts both ways: you cannot overstate the problem. Not everything lumped under tech debt today is a liability. Some of it you just hand to an agent at the start or end of the day and you're done. The rename only works if you're selective with it — call the cheap stuff cheap and the expensive stuff expensive, or the business stops believing either label.
+
+Software ages like milk, not wine. A lot of dependencies are an asset doing work you didn't have to write by hand — updating them on time, staying no more than a few months behind, is just making your payments on time, and "debt" isn't even the right word there. It's an asset that needs maintenance. But fall six months or a year behind on a language runtime, a compiler, or your packages, and you stack breaking changes, land in version combinations the rest of the industry has never tested, and a newly found vulnerability can leave you unable to patch at all because the fix lives three major versions ahead. With money, skipping a payment just costs you more later; with software, skipping an update can lock the door.
 
 ### The closing thesis
 The same AI that ate your leverage is the tool that pays the debt. You don't need political capital anymore because the cost collapsed — but you do need sharper people skills, because your ability to turn an idea into instructions for a computer is no longer the phenomenally valuable skill it was five years ago. Your understanding of what humans want from the software, and your ability to convince a business leader that some time must be taken out for tech debt, is where the value lives now. Engineers who can see the debt and sell the fix are the ones who keep their seats.
