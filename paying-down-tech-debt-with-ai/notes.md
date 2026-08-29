@@ -7,7 +7,6 @@ Everything in this talk supports that claim.
 
 ## Ideas
 - I like the term "buzzword compliant"
-- Poor code quality, more and more difficult to maintain. 
 - Something that used to be an asset, that has become a liability. 
 - Assets that are difficult to remove. Like P2P
 - A matrix with 4 quadrants
@@ -68,6 +67,7 @@ Things like the database schema, the CI pipeline, the deploy process, the softwa
 Some of these decisions are irreversible:
 - No code formatting, linting, or quality checks at two hundred fifty thousand lines of code — introducing them then is a massive problem.
 - No tests at two hundred fifty thousand lines — writing them after the fact is unsustainable.
+- Poor code quality that becomes more and more difficult to maintain as the codebase grows.
 
 This isn't just "don't incur debt." It's triage. Some debt is cheap to pay later — a messy folder structure, a slightly awkward API. Some debt is permanent. The skill is knowing which is which, and that's exactly what you sell to the business: not "let me fix things," but "here's what breaks if we don't decide now."
 
