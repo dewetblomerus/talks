@@ -7,7 +7,6 @@ Everything in this talk supports that claim.
 
 ## Ideas
 - I like the term "buzzword compliant"
-- Tech debt as a service 
 - There is nothing as permanent as a temporary fix
 - Poor code quality, more and more difficult to maintain. 
 - Something that used to be an asset, that has become a liability. 
@@ -23,6 +22,7 @@ Everything in this talk supports that claim.
   - The bad news: the power dynamic is shifting
   - The mixed news: we are accruing debt faster, so we have to get faster at paying it down
     - We are building faster, so we are accruing debt faster.
+    - Tech debt as a service: LLM coding assistants generate tech debt for you way faster than you ever could — a jab at the tools, not the people using them.
     - The only way forward is to get faster at paying it down.
     - Why AI software development is not going away — we can't wait for the stock market bubble to pop for the debt accrual to slow down.
   - The real value: knowing where to go slow
@@ -58,6 +58,8 @@ Five years ago, turning a product specification into working code was a scarce, 
 
 ### The mixed news: we are accruing debt faster, so we have have to get faster at paying it down
 We are building faster, so we are accruing debt faster. The only way forward is to get faster at paying it down. And AI software development is not going away — we can't wait for the stock market bubble to pop in order for the debt accrual to slow down.
+
+There's a darker flip side to the same tools: **tech debt as a service**. LLM coding assistants and agents will generate tech debt for you way, way faster than you ever could on your own. It's a jab at the tools, not at the people using them — but it's true, and the room will feel it.
 
 ### The real value: knowing where to go slow
 The scarce skill is no longer turning ideas into code — that got cheap. What stayed expensive is knowing which ideas are worth having, and convincing someone to fund them. In 2026, the engineer's real value is understanding where we need to go slow: the technical platform that has to exist before a PM or designer can safely ship PRs.
