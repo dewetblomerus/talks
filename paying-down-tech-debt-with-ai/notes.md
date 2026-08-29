@@ -16,6 +16,7 @@ Everything in this talk supports that claim.
 - I like the term "buzzword compliant"
 - Ukelele factor
 - Or do they see you as doctor No.
+- Do they see you as an ally, or do they see you as Dr. No?
 - Tech debt as a service 
 - There is nothing as permanent as a temporary fix
 - Poor code quality, more and more difficult to maintain. 
