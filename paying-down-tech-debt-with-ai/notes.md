@@ -13,20 +13,20 @@ Everything in this talk supports that claim.
 
 ## Outline
 - Thesis: The leverage moved from your hands to your head
-  - The good news: some debt is now trivially cheap to pay
-  - The bad news: the power dynamic is shifting
-  - The mixed news: we are accruing debt faster, so we have to get faster at paying it down
-    - We are building faster, so we are accruing debt faster.
-    - Tech debt as a service: LLM coding assistants generate tech debt for you way faster than you ever could — a jab at the tools, not the people using them.
-    - The only way forward is to get faster at paying it down.
-    - Why AI software development is not going away — we can't wait for the stock market bubble to pop for the debt accrual to slow down.
-  - The real value: knowing where to go slow
-    - Ally or Dr. No: willing to move fast on cheap debt so you can spend capital on the hard stuff
-  - The rename: stop calling it debt — call it a liability, high-interest debt, or a drag on productivity
-    - The word "debt" works against you with business leaders; the new words only work if you're selective with them.
-    - Software ages like milk, not wine: on-time dependency updates are maintenance, late updates stack breaking changes and lock you out of security fixes.
-    - Some things that used to be an asset have become a liability: a customer-facing feature users already rely on. AI makes shipping features faster, so the pile of "we shipped it, now we're stuck with it" grows faster too. It's the only debt where paying it down has a visible cost to users, not just to engineers — removing it is a product decision wearing an engineer's hat.
-  - The closing thesis
+- The good news: some debt is now trivially cheap to pay
+- The bad news: the power dynamic is shifting
+- The mixed news: we are accruing debt faster, so we have to get faster at paying it down
+  - We are building faster, so we are accruing debt faster.
+  - Tech debt as a service: LLM coding assistants generate tech debt for you way faster than you ever could — a jab at the tools, not the people using them.
+  - The only way forward is to get faster at paying it down.
+  - Why AI software development is not going away — we can't wait for the stock market bubble to pop for the debt accrual to slow down.
+- The real value: knowing where to go slow
+  - Ally or Dr. No: willing to move fast on cheap debt so you can spend capital on the hard stuff
+- The rename: stop calling it debt — call it a liability, high-interest debt, or a drag on productivity
+  - The word "debt" works against you with business leaders; the new words only work if you're selective with them.
+  - Software ages like milk, not wine: on-time dependency updates are maintenance, late updates stack breaking changes and lock you out of security fixes.
+  - Some things that used to be an asset have become a liability: a customer-facing feature users already rely on. AI makes shipping features faster, so the pile of "we shipped it, now we're stuck with it" grows faster too. It's the only debt where paying it down has a visible cost to users, not just to engineers — removing it is a product decision wearing an engineer's hat.
+- The closing thesis
 - How I have used it to pay down tech debt.
   - Terraform
   - Scripts to edit DataDog resources
