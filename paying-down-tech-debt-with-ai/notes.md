@@ -6,7 +6,6 @@ The leverage moved from your hands to your head.
 Everything in this talk supports that claim.
 
 ## Ideas
-- In tech, when does an unpaid bill become debt?
 - I like the term "buzzword compliant"
 - Ukelele factor
 - Do they see you as an ally, or do they see you as Dr. No?
