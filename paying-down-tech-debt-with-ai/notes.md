@@ -62,5 +62,7 @@ Some of these decisions are irreversible:
 
 This isn't just "don't incur debt." It's triage. Some debt is cheap to pay later — a messy folder structure, a slightly awkward API. Some debt is permanent. The skill is knowing which is which, and that's exactly what you sell to the business: not "let me fix things," but "here's what breaks if we don't decide now."
 
+The emerging thought I'm wrestling with: a good software engineer can triage the implementation itself. Which parts can just be vibe coded. Which parts need very careful thought. And which parts require the business to answer questions before anyone writes a line. That triage — not the typing — is the value.
+
 ### The closing thesis
 The same AI that ate your leverage is the tool that pays the debt. You don't need political capital anymore because the cost collapsed — but you do need sharper people skills, because your ability to turn an idea into instructions for a computer is no longer the phenomenally valuable skill it was five years ago. Your understanding of what humans want from the software, and your ability to convince a business leader that some time must be taken out for tech debt, is where the value lives now. Engineers who can see the debt and sell the fix are the ones who keep their seats.
