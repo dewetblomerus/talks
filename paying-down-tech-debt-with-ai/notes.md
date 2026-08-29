@@ -24,6 +24,7 @@ Everything in this talk supports that claim.
 - A matrix with 4 quadrants
   - If it is slow and low benefit, make a Jira ticket and never do it. 
   - If it's fast and high benefit, call an incident. (If it is late in the business day, call the incident tomorrow morning)
+- The word "debt" works against you with business leaders. Consumer debt is always bad; business debt against an asset is leverage they believe they can outgrow. So "we have tech debt" lands as "we're being responsible," not "we're in trouble" — they hear minimum payments as fine. The move: stop calling it debt. Call it a liability, high-interest debt, or a drag on productivity — language the business already treats as a problem. Even if the industry keeps saying tech debt, for how we think and talk about it, use the words that make them feel the compounding cost.
 
 ## Outline
 - Thesis: The leverage moved from your hands to your head
