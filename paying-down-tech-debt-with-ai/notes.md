@@ -54,6 +54,8 @@ There's a darker flip side to the same tools: **tech debt as a service**. LLM co
 
 The only way forward is to get faster at paying it down. And AI software development is not going away — we can't wait for the stock market bubble to pop in order for the debt accrual to slow down.
 
+I used to think the AI stock bubble meant coding assistants would get expensive and scarce. Then I realized my employer already pays API billing rates for our coding assistants, and the large AI companies — including the one that makes me — make real profit selling inference at those rates. The flat subscriptions like SuperGrok are the subsidized side. So even if a lab like OpenAI went bankrupt and sold its assets, somebody would keep selling inference, because it's profitable. The price per token has been trending down for years and will keep trending down. That means heavy AI-assisted coding at work is never going to slow down — it's not a bubble we can wait out.
+
 ### The real value: knowing where to go slow
 The scarce skill is no longer turning ideas into code — that got cheap. What stayed expensive is knowing which ideas are worth having, and convincing someone to fund them. In 2026, the engineer's real value is understanding where we need to go slow: the technical platform that has to exist before a PM or designer can safely ship PRs.
 
