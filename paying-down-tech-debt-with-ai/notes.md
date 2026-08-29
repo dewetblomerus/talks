@@ -7,8 +7,6 @@ Everything in this talk supports that claim.
 
 ## Ideas
 - I like the term "buzzword compliant"
-- Ukelele factor: how many open source maintainers would need to discover that playing the ukulele is more fun than maintaining an open source package for your package to go unmaintained.
-- Do they see you as an ally, or do they see you as Dr. No?
 - Tech debt as a service 
 - There is nothing as permanent as a temporary fix
 - Poor code quality, more and more difficult to maintain. 
@@ -28,6 +26,7 @@ Everything in this talk supports that claim.
     - The only way forward is to get faster at paying it down.
     - Why AI software development is not going away — we can't wait for the stock market bubble to pop for the debt accrual to slow down.
   - The real value: knowing where to go slow
+    - Ally or Dr. No: willing to move fast on cheap debt so you can spend capital on the hard stuff
   - The rename: stop calling it debt — call it a liability, high-interest debt, or a drag on productivity
     - The word "debt" works against you with business leaders; the new words only work if you're selective with them.
     - Software ages like milk, not wine: on-time dependency updates are maintenance, late updates stack breaking changes and lock you out of security fixes.
@@ -74,6 +73,8 @@ This isn't just "don't incur debt." It's triage. Some debt is cheap to pay later
 The emerging thought I'm wrestling with: a good software engineer can triage the implementation itself. Which parts can just be vibe coded. Which parts need very careful thought. And which parts require the business to answer questions before anyone writes a line. That triage — not the typing — is the value.
 
 The thought I'm landing on: you need to become very good at realizing which types of tech debt will still be difficult to pay down even with smarter AI a year or two from now, and which types are cheap to pay down even today with today's AI. Say yes to moving fast and not caring about the cheap types. Pump the brakes and spend your political capital when you see the hard types — the ones that will be painful to fix later no matter how good the AI gets.
+
+Do they see you as an ally, or do they see you as Dr. No? In the age of AI coding, you have to be willing to move fast and overlook some cheap tech debt — otherwise you become the person who always says no. That credibility is what lets you tell people to slow down and review the database schema together before moving forward. Ally on the cheap stuff, Dr. No on the irreversible stuff.
 
 ### The rename: stop calling it debt
 The word "debt" works against you with business leaders. Consumer debt is always bad; business debt against an asset is leverage they believe they can outgrow. So "we have tech debt" lands as "we're being responsible," not "we're in trouble" — they hear minimum payments as fine. The move: stop calling it debt. Call it a liability, high-interest debt, or a drag on productivity — language the business already treats as a problem. Even if the industry keeps saying tech debt, for how we think and talk about it, use the words that make them feel the compounding cost.
