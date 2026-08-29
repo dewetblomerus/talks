@@ -16,7 +16,6 @@ Everything in this talk supports that claim.
 - The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue
   - The good news: some debt is now trivially cheap to pay
   - The bad news: the power dynamic is shifting
-  - We are accruing debt faster, so we have to get faster at paying it down
   - Tech debt as a service: LLM coding assistants generate tech debt for you way faster than you ever could — a jab at the tools, not the people using them.
   - The only way forward is to get faster at paying it down.
   - Why AI software development is not going away — we can't wait for the stock market bubble to pop for the debt accrual to slow down.
@@ -51,9 +50,9 @@ These work because each is a closed loop: the agent can verify its own work. Tes
 
 Five years ago, turning a product specification into working code was a scarce, high-value skill — and that scarcity was your leverage. Today that ability is being commoditized. Productivity per engineer is up, teams ship more with fewer people, and product managers and designers are starting to open PRs themselves. The job market for software engineers is at an all-time low. None of this means the engineer is gone — it means the automatic political clout that used to come with the role is gone. The power dynamic shifted, and the old leverage no longer holds on its own.
 
-We are building faster, so we are accruing debt faster. The only way forward is to get faster at paying it down. And AI software development is not going away — we can't wait for the stock market bubble to pop in order for the debt accrual to slow down.
-
 There's a darker flip side to the same tools: **tech debt as a service**. LLM coding assistants and agents will generate tech debt for you way, way faster than you ever could on your own. It's a jab at the tools, not at the people using them — but it's true, and the room will feel it.
+
+The only way forward is to get faster at paying it down. And AI software development is not going away — we can't wait for the stock market bubble to pop in order for the debt accrual to slow down.
 
 ### The real value: knowing where to go slow
 The scarce skill is no longer turning ideas into code — that got cheap. What stayed expensive is knowing which ideas are worth having, and convincing someone to fund them. In 2026, the engineer's real value is understanding where we need to go slow: the technical platform that has to exist before a PM or designer can safely ship PRs.
