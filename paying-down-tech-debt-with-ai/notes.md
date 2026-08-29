@@ -1,6 +1,10 @@
 ## Goal
 I want to motivate conference goers to look for opportunities to use AI to pay down tech debt.
 
+## Throughline
+The leverage moved from your hands to your head.
+Everything in this talk supports that claim.
+
 ## Ideas
 - All the regular risk/reward structures apply.
   - Debt can be paid off too aggressively.
