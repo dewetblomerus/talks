@@ -25,7 +25,7 @@ Everything in this talk supports that claim.
   - The word "debt" works against you with business leaders; the new words only work if you're selective with them.
   - Software ages like milk, not wine: on-time dependency updates are maintenance, late updates stack breaking changes and lock you out of security fixes.
   - Some things that used to be an asset have become a liability: a customer-facing feature users already rely on. AI makes shipping features faster, so the pile of "we shipped it, now we're stuck with it" grows faster too. It's the only debt where paying it down has a visible cost to users, not just to engineers — removing it is a product decision wearing an engineer's hat.
-- The closing thesis
+- The closing thesis: the same AI that ate your leverage is the tool that pays the debt — but only if you spend your political capital on the debt that stays expensive.
 - How I have used it to pay down tech debt.
   - Terraform
   - Scripts to edit DataDog resources
@@ -87,5 +87,5 @@ Software ages like milk, not wine. A lot of dependencies are an asset doing work
 
 Some things that used to be an asset have become a liability. A customer-facing feature users already rely on — if you decide you no longer want to maintain it, taking it away gets you bad reviews. AI makes shipping features faster than ever, so the pile of "we shipped it, now we're stuck with it" grows faster too. It's the only kind of debt where paying it down has a visible cost to users, not just to engineers. Removing it is a product decision wearing an engineer's hat.
 
-### The closing thesis
+### The closing thesis: the same AI that ate your leverage is the tool that pays the debt — but only if you spend your political capital on the debt that stays expensive.
 The same AI that ate your leverage is the tool that pays the debt. You don't need political capital anymore because the cost collapsed — but you do need sharper people skills, because your ability to turn an idea into instructions for a computer is no longer the phenomenally valuable skill it was five years ago. Your understanding of what humans want from the software, and your ability to convince a business leader that some time must be taken out for tech debt, is where the value lives now. Engineers who can see the debt and sell the fix are the ones who keep their seats.
