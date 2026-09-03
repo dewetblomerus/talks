@@ -6,9 +6,6 @@ You just got two promotions — no raise, no title change, but the job descripti
 Everything in this talk supports that claim.
 
 ## Ideas
-- A matrix with 4 quadrants
-  - If it is slow and low benefit, make a Jira ticket and never do it. 
-  - If it's fast and high benefit, call an incident. (If it is late in the business day, call the incident tomorrow morning)
 
 ## Outline
 - Opening: The Vasa — practitioners knew it was unstable, but the deadline forced them forward anyway
@@ -22,6 +19,11 @@ Everything in this talk supports that claim.
 - The real value: knowing where to go slow
   - Ally or Dr. No: willing to move fast on cheap debt so you can spend capital on the hard stuff
   - CI checks: linting, formatting, large-file checks, duplicate-code checks, and the rest — plan them for every new repo, and centralize them in a shared repo if you own many
+  - The triage matrix: two axes, fast/slow and high/low benefit
+    - Fast and high benefit: call an incident and get it done immediately (if it's late in the business day, call it tomorrow morning)
+    - Slow and low benefit: make a Jira ticket, put it on the backlog, and never do it
+    - Fast and low benefit: hand it to an agent and forget it
+    - Slow and high benefit: this is where you spend your political capital
 - The rename: stop calling it debt — call it a liability, high-interest debt, or a drag on productivity
   - The word "debt" works against you with business leaders; the new words only work if you're selective with them.
   - Software ages like milk, not wine: on-time dependency updates are maintenance, late updates stack breaking changes and lock you out of security fixes.
