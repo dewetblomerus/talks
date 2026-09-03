@@ -39,8 +39,6 @@ Everything in this talk supports that claim.
 - The Vasa
 All of us do this to some degree every sprint, or every day.
 
-## Thesis: You just got two promotions
-
 You just got two promotions. No raise. No title change. No email from HR. But the job description moved up a level — and it's buzzword compliant. Keep the same title on your LinkedIn, but now you can call yourself an agent manager, a prompt engineer, whatever's trending this quarter.
 
 ### The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue
