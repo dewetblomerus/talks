@@ -21,6 +21,7 @@ Everything in this talk supports that claim.
   - Why AI software development is not going away — we can't wait for the stock market bubble to pop for the debt accrual to slow down.
 - The real value: knowing where to go slow
   - Ally or Dr. No: willing to move fast on cheap debt so you can spend capital on the hard stuff
+  - CI checks: linting, formatting, large-file checks, duplicate-code checks, and the rest — plan them for every new repo, and centralize them in a shared repo if you own many
 - The rename: stop calling it debt — call it a liability, high-interest debt, or a drag on productivity
   - The word "debt" works against you with business leaders; the new words only work if you're selective with them.
   - Software ages like milk, not wine: on-time dependency updates are maintenance, late updates stack breaking changes and lock you out of security fixes.
