@@ -5,8 +5,6 @@ I want to motivate conference goers to look for opportunities to use AI to pay d
 You just got two promotions — no raise, no title change, but the job description moved up a level.
 Everything in this talk supports that claim.
 
-## Ideas
-
 ## Outline
 - Opening: The Vasa — practitioners knew it was unstable, but the deadline forced them forward anyway
 - The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue
