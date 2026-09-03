@@ -3,6 +3,7 @@ marp: true
 author: De Wet Blomerus
 size: 16:9
 theme: default
+footer: '![logo](images/backgrounds/logo.png)'
 ---
 
 <style>
@@ -17,7 +18,7 @@ theme: default
   }
 
   a {
-    color: black
+    color: black;
     font-weight: 200;
   }
 
@@ -35,13 +36,51 @@ theme: default
     color: black;
   }
 
+  /* Logo on every slide, via the footer directive. It must be a real
+     element: Marpit forces background:transparent!important and hides
+     ::before/::after on any slide that uses ![bg]. */
+  footer {
+    position: absolute;
+    left: auto;
+    right: 40px;
+    bottom: 30px;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Full-bleed foreground image: sits above the slide background,
+     below the footer logo. */
+  section.full-image {
+    padding: 0;
+  }
+
+  section.full-image > p {
+    margin: 0;
+  }
+
+  section.full-image > p > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  footer img {
+    height: 100px;
+    display: block;
+  }
+
 </style>
 
-![bg](images/background.png)
+![bg](images/backgrounds/background.png)
 
 # Paying Down Tech Debt With AI
 
 ---
 
-![bg](images/vasa.avif)
+<!-- _class: full-image -->
+
+![Vasa](images/vasa.avif)
 
