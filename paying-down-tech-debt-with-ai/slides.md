@@ -72,6 +72,11 @@ footer: '![logo](images/backgrounds/logo.png)'
     display: block;
   }
 
+  /* Second slide: image only — hide the footer logo. */
+  section.full-image footer {
+    display: none;
+  }
+
 </style>
 
 ![bg](images/backgrounds/background.png)
