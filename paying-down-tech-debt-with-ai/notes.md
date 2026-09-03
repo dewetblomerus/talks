@@ -12,7 +12,6 @@ Everything in this talk supports that claim.
 
 ## Outline
 - Opening: The Vasa — practitioners knew it was unstable, but the deadline forced them forward anyway
-- Thesis: You just got two promotions
 - The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue
   - The good news: some debt is now trivially cheap to pay
   - The bad news: the power dynamic is shifting
