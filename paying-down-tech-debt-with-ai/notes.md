@@ -11,6 +11,7 @@ Everything in this talk supports that claim.
   - If it's fast and high benefit, call an incident. (If it is late in the business day, call the incident tomorrow morning)
 
 ## Outline
+- Opening: The Vasa — practitioners knew it was unstable, but the deadline forced them forward anyway
 - Thesis: You just got two promotions
 - The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue
   - The good news: some debt is now trivially cheap to pay
