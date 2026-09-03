@@ -36,8 +36,8 @@ Everything in this talk supports that claim.
   - ALL the CI checks & local pre-commit hooks, in shared repos.
 
 ## Exact words
-- Political Capital
-Every engineer in this room has a mental backlog of tech debt that they know exactly how to fix. And every engineer in this room has been told the exact same thing. Not now, let's first get XYZ feature out the door. Tech debt remaining unpaid long after it's identified, has never been a technical problem, it's a political one. 
+- The Vasa
+All of us do this to some degree every sprint, or every day.
 
 ## Thesis: You just got two promotions
 
