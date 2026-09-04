@@ -10,10 +10,10 @@ Everything in this talk supports that claim.
 - The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue
   - The good news: some debt is now trivially cheap to pay
   - The bad news: the power dynamic is shifting
-  - Tech debt as a service: LLM coding assistants generate tech debt for you way faster than you ever could — a jab at the tools, not the people using them.
+  - Tech debt as a service: LLM coding assistants generate tech debt for you way faster than you ever could.
   - The bubble talk is about subscriptions. The inference business is profitable — that's the rate your employer pays — so it doesn't go away, and the cost per unit of intelligence only trends down.
-  - The only way forward is to get faster at paying it down.
-  - Why AI software development is not going away — we can't wait for the stock market bubble to pop for the debt accrual to slow down.
+    - The only way forward is to get faster at paying it down.
+    - Why AI software development is not going away — we can't wait for the stock market bubble to pop for the debt accrual to slow down.
 - The real value: knowing where to go slow
   - Ally or Dr. No: willing to move fast on cheap debt so you can spend capital on the hard stuff
   - CI checks: linting, formatting, large-file checks, duplicate-code checks, and the rest — plan them for every new repo, and centralize them in a shared repo if you own many
