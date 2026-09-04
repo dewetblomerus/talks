@@ -79,7 +79,7 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 </style>
 
-![bg](images/backgrounds/background.png)
+![bg](images/backgrounds/light-background.png)
 
 # Paying Down Tech Debt With AI
 
