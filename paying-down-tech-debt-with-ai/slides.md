@@ -68,7 +68,7 @@ footer: '![logo](images/backgrounds/logo.png)'
   }
 
   footer img {
-    height: 100px;
+    height: 200px;
     display: block;
   }
 
