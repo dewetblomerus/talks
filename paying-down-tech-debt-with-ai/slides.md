@@ -89,3 +89,11 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 ![Vasa](images/vasa.avif)
 
+---
+
+![bg](images/backgrounds/light-background.png)
+
+# The Tradeoff
+- Some debt is much faster to pay off
+- All debt is master to accrue
+
