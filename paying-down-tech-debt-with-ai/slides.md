@@ -22,13 +22,18 @@ footer: '![logo](images/backgrounds/logo.png)'
     font-weight: 200;
   }
 
+  /* Marp default body is ~35px. Sparse slides: bump the slide root. */
+  section {
+    font-size: 48px;
+  }
+
   h1 {
     text-align: center;
-    font-size: 60px;
+    font-size: 76px;
   }
 
   h2 {
-    font-size: 40px;
+    font-size: 56px;
   }
 
   pre, code {
@@ -95,5 +100,5 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 # The Tradeoff
 - Some debt is much faster to pay off
-- All debt is master to accrue
+- All debt is faster to accrue
 
