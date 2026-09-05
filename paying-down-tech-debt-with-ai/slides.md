@@ -166,7 +166,7 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 ![bg](images/backgrounds/light-background.png)
 
-# Aren't We Just In A Bubble About To Pop?
+# Aren't We Just In A Bubble?
 
 ---
 
