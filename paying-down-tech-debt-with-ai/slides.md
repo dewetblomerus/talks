@@ -192,8 +192,8 @@ footer: '![logo](images/backgrounds/logo.png)'
 ![bg](images/backgrounds/light-background.png)
 
 # Hard to pay later examples
-  - A good system design
-  - A database schema that suites your use-case.
+  - A good system design.
+  - A good database schema.
   - A consistent API contract.
   - Test coverage
   - Observability coverage
