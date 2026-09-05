@@ -6,33 +6,33 @@ You just got two promotions — no raise, no title change, but the job descripti
 Everything in this talk supports that claim.
 
 ## Outline
-- Opening: The Vasa — practitioners knew it was unstable, but the deadline forced them forward anyway
-- The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue
-  - The good news: some debt is now trivially cheap to pay
-  - The bad news: the power dynamic is shifting
+- Opening: The Vasa — practitioners knew it was unstable, but the deadline forced them forward anyway.
+- The trade-off: AI made some debt cheap to pay and some debt cheaper to accrue.
+  - The good news: some debt is now trivially cheap to pay.
+  - The bad news: the power dynamic is shifting.
   - Tech debt as a service: LLM coding assistants generate tech debt for you way faster than you ever could.
   - The bubble talk is about subscriptions. The inference business is profitable — that's the rate your employer pays — so it doesn't go away, and the cost per unit of intelligence only trends down.
     - The only way forward is to get faster at paying it down.
     - Why AI software development is not going away — we can't wait for the stock market bubble to pop for the debt accrual to slow down.
-- The real value: knowing where to go slow
-  - Ally or Dr. No: willing to move fast on cheap debt so you can spend capital on the hard stuff
-  - CI checks: linting, formatting, large-file checks, duplicate-code checks, and the rest — plan them for every new repo, and centralize them in a shared repo if you own many
-  - The triage matrix: two axes, fast/slow and high/low benefit
-    - Fast and high benefit: call an incident and get it done immediately (if it's late in the business day, call it tomorrow morning)
-    - Slow and low benefit: make a Jira ticket, put it on the backlog, and never do it
-    - Fast and low benefit: hand it to an agent and forget it
-    - Slow and high benefit: this is where you spend your political capital
-- The rename: stop calling it debt — call it a liability, high-interest debt, or a drag on productivity
+- The real value: knowing where to go slow.
+  - Ally or Dr. No: willing to move fast on cheap debt so you can spend capital on the hard stuff.
+  - CI checks: linting, formatting, large-file checks, duplicate-code checks, and the rest — plan them for every new repo, and centralize them in a shared repo if you own many.
+  - The triage matrix: two axes, fast/slow and high/low benefit.
+    - Fast and high benefit: call an incident and get it done immediately (if it's late in the business day, call it tomorrow morning).
+    - Slow and low benefit: make a Jira ticket, put it on the backlog, and never do it.
+    - Fast and low benefit: hand it to an agent and forget it.
+    - Slow and high benefit: this is where you spend your political capital.
+- The rename: stop calling it debt — call it a liability, high-interest debt, or a drag on productivity.
   - The word "debt" works against you with business leaders; the new words only work if you're selective with them.
   - Software ages like milk, not wine: on-time dependency updates are maintenance, late updates stack breaking changes and lock you out of security fixes.
   - Some things that used to be an asset have become a liability: a customer-facing feature users already rely on. AI makes shipping features faster, so the pile of "we shipped it, now we're stuck with it" grows faster too. It's the only debt where paying it down has a visible cost to users, not just to engineers — removing it is a product decision wearing an engineer's hat.
 - The closing thesis: the same AI that ate your leverage is the tool that pays the debt — but only if you spend your political capital on the debt that stays expensive.
 - How I have used it to pay down tech debt.
-  - Terraform
-  - Scripts to edit DataDog resources
-  - Cyclic Dependencies
-  - Test flakes
-  - Jason -> JSON
+  - Terraform.
+  - Scripts to edit DataDog resources.
+  - Cyclic dependencies.
+  - Test flakes.
+  - Jason -> JSON.
   - ALL the CI checks & local pre-commit hooks, in shared repos.
 
 ## Exact words
@@ -78,7 +78,7 @@ The thought I'm landing on: you need to become very good at realizing which type
 Do they see you as an ally, or do they see you as Dr. No? In the age of AI coding, you have to be willing to move fast and overlook some cheap tech debt — otherwise you become the person who always says no. That credibility is what lets you tell people to slow down and review the database schema together before moving forward. Ally on the cheap stuff, Dr. No on the irreversible stuff.
 
 ### The rename: stop calling it debt
-The word "debt" works against you with business leaders. Consumer debt is always bad; business debt against an asset is leverage they believe they can outgrow. So "we have tech debt" lands as "we're being responsible," not "we're in trouble" — they hear minimum payments as fine. The move: stop calling it debt. Call it a liability、高-interest debt, or a drag on productivity — language the business already treats as a problem. Even if the industry keeps saying tech debt, for how we think and talk about it, use the words that make them feel the compounding cost.
+The word "debt" works against you with business leaders. Consumer debt is always bad; business debt against an asset is leverage they believe they can outgrow. So "we have tech debt" lands as "we're being responsible," not "we're in trouble" — they hear minimum payments as fine. The move: stop calling it debt. Call it a liability, high-interest debt, or a drag on productivity — language the business already treats as a problem. Even if the industry keeps saying tech debt, for how we think and talk about it, use the words that make them feel the compounding cost.
 
 That responsibility cuts both ways: you cannot overstate the problem. Not everything lumped under tech debt today is a liability. Some of it you just hand to an agent at the start or end of the day and you're done. The rename only works if you're selective with it — call the cheap stuff cheap and the expensive stuff expensive, or the business stops believing either label.
 
