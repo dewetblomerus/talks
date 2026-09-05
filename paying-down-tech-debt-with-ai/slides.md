@@ -202,10 +202,9 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 # Hard to pay later: safety nets
   - Observability coverage & consistency
-  - Dependabot
-  - Test coverage
   - Canary deploys
-  - CI checks: security checks, linting, formatting, large-file checks, duplicate-code checks, etc.
+  - Dependabot
+  - CI checks: Test coverage, security checks, linting, formatting, large-file checks, duplicate-code checks, etc.
 
 ---
 
