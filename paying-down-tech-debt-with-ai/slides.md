@@ -191,10 +191,16 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 ![bg](images/backgrounds/light-background.png)
 
-# Hard to pay later examples
+# Hard to pay later: architecture
   - A good system design
   - A good database schema
   - A consistent API contract
+
+---
+
+![bg](images/backgrounds/light-background.png)
+
+# Hard to pay later: safety nets
   - Test coverage
   - Observability coverage
   - Canary deploys
