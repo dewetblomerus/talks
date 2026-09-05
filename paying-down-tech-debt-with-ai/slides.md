@@ -82,7 +82,7 @@ footer: '![logo](images/backgrounds/logo.png)'
     display: none;
   }
 
-  /* Last slide: 2x2 triage matrix. Leave room for the footer logo. */
+  /* 2x2 triage matrix. Leave room for the footer logo. */
   section.matrix {
     display: flex;
     flex-direction: column;
@@ -170,6 +170,17 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 ---
 
+<!-- _class: matrix -->
+
+![bg](images/backgrounds/light-background.png)
+
+| | Slow | Fast |
+| :--- | :---: | :---: |
+| High benefit | Spend political capital | Call an incident |
+| Low benefit | Jira | Hand it to an agent |
+
+---
+
 ![bg](images/backgrounds/light-background.png)
 
 # The real value: knowing where to go slow
@@ -197,17 +208,6 @@ footer: '![logo](images/backgrounds/logo.png)'
   - Easy to verify it doesn't break anything
   - Can be deployed as a single change in a single repo
   - The directories containing the code communicates low-risk.
-
----
-
-<!-- _class: matrix -->
-
-![bg](images/backgrounds/light-background.png)
-
-| | Slow | Fast |
-| :--- | :---: | :---: |
-| High benefit | Spend political capital | Call an incident |
-| Low benefit | Jira | Hand it to an agent |
 
 ---
 
