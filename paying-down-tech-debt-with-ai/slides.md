@@ -219,4 +219,13 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 ![bg](images/backgrounds/light-background.png)
 
+# Some things I've done at work to pay down tech debt
+  - With the exception of Canary deploys...
+  - Reducing cyclic dependencies
+  - Fixing flaky tests
+
+---
+
+![bg](images/backgrounds/light-background.png)
+
 # Debt might be a bad name
