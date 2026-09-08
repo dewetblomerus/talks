@@ -159,14 +159,23 @@ footer: '![logo](images/backgrounds/logo.png)'
 ![bg](images/backgrounds/light-background.png)
 
 # The Tradeoff
-- Some debt is much faster to pay off
-- All debt is faster to accrue
+- Debt is faster to pay off
+- Debt is much faster to accrue
 
 ---
 
 ![bg](images/backgrounds/light-background.png)
 
 # Aren't We Just In A Bubble?
+
+---
+
+![bg](images/backgrounds/light-background.png)
+
+# The real value
+## Knowing where to go slow
+- Do they see you as an Ally or Dr. No?
+- Are you willing to move fast on cheap debt so you can spend capital on the hard stuff
 
 ---
 
@@ -178,13 +187,6 @@ footer: '![logo](images/backgrounds/logo.png)'
 | :--- | :---: | :---: |
 | High benefit | Spend political capital | Call an incident |
 | Low benefit | Jira | Hand it to an agent |
-
----
-
-![bg](images/backgrounds/light-background.png)
-
-# The real value: knowing where to go slow
-  - Ally or Dr. No: willing to move fast on cheap debt so you can spend capital on the hard stuff
 
 
 ---
