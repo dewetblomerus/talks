@@ -173,7 +173,7 @@ footer: '![logo](images/backgrounds/logo.png)'
 ![bg](images/backgrounds/light-background.png)
 
 # Software Engineering in 2026
-## Knowing when going slow is important, being willing to go fast elsewhere.
+## Knowing when going slow is important, while being willing to go fast elsewhere.
 
 ---
 
