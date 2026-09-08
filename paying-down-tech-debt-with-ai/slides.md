@@ -173,9 +173,7 @@ footer: '![logo](images/backgrounds/logo.png)'
 ![bg](images/backgrounds/light-background.png)
 
 # The real value
-## Knowing where to go slow
-- Do they see you as an Ally or Dr. No?
-- Are you willing to move fast on cheap debt so you can spend capital on the hard stuff
+## Knowing when going slow is important, being willing to go fast elsewhere.
 
 ---
 
