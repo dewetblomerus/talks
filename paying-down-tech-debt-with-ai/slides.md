@@ -87,7 +87,8 @@ footer: '![logo](images/backgrounds/logo.png)'
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-right: 200px;
+    padding-top: 20px;
+    padding-right: 160px;
     padding-bottom: 40px;
   }
 
@@ -111,22 +112,22 @@ footer: '![logo](images/backgrounds/logo.png)'
 
   section.matrix thead th:first-child,
   section.matrix tbody td:first-child {
-    width: 140px;
+    width: 170px;
   }
 
   section.matrix thead th {
     text-transform: uppercase;
     letter-spacing: 0.14em;
-    font-size: 28px;
-    padding: 0 12px 10px;
+    font-size: 38px;
+    padding: 0 12px 4px;
     height: auto;
   }
 
   section.matrix tbody td:first-child {
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    font-size: 24px;
-    padding: 0 16px 0 0;
+    font-size: 36px;
+    padding: 0 4px 0 0;
     line-height: 1.2;
     text-align: center;
     vertical-align: middle;
@@ -136,10 +137,10 @@ footer: '![logo](images/backgrounds/logo.png)'
     border: 2px solid currentColor !important;
     text-align: center;
     vertical-align: middle;
-    font-size: 36px;
+    font-size: 48px;
     line-height: 1.25;
     padding: 16px 20px;
-    height: 230px;
+    height: 240px;
   }
 
 </style>
@@ -183,7 +184,7 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 | | Slow | Fast |
 | :--- | :---: | :---: |
-| High benefit | Spend political capital | Call an incident |
+| High benefit | Tough conversations | Call an incident |
 | Low benefit | Jira | Hand it to an agent |
 
 
