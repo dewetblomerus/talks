@@ -151,6 +151,22 @@ footer: '![logo](images/backgrounds/logo.png)'
     visibility: hidden;
   }
 
+  /* Matrix cells reveal in a custom order: Jira, Call an incident,
+     Hand it to an agent, Tough conversations. The grid and its labels
+     stay put; only the cell text is hidden. */
+  section.matrix.reveal tbody td:not(:first-child) {
+    visibility: hidden;
+  }
+
+  section.matrix.reveal-1 tbody tr:nth-child(2) td:nth-child(2),
+  section.matrix.reveal-2 tbody tr:nth-child(2) td:nth-child(2),
+  section.matrix.reveal-2 tbody tr:nth-child(1) td:nth-child(3),
+  section.matrix.reveal-3 tbody tr:nth-child(2) td:nth-child(2),
+  section.matrix.reveal-3 tbody tr:nth-child(1) td:nth-child(3),
+  section.matrix.reveal-3 tbody tr:nth-child(2) td:nth-child(3) {
+    visibility: visible;
+  }
+
   section.reveal-1 li:nth-child(-n + 1),
   section.reveal-2 li:nth-child(-n + 2),
   section.reveal-3 li:nth-child(-n + 3),
@@ -212,6 +228,50 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 # Software Engineering in 2026
 ### Knowing when to go slow, while being willing to go fast elsewhere.
+
+---
+
+<!-- _class: matrix reveal -->
+
+![bg](images/backgrounds/light-background.png)
+
+| | Slow | Fast |
+| :--- | :---: | :---: |
+| High benefit | Tough conversations | Call an incident |
+| Low benefit | Jira | Hand it to an agent |
+
+---
+
+<!-- _class: matrix reveal reveal-1 -->
+
+![bg](images/backgrounds/light-background.png)
+
+| | Slow | Fast |
+| :--- | :---: | :---: |
+| High benefit | Tough conversations | Call an incident |
+| Low benefit | Jira | Hand it to an agent |
+
+---
+
+<!-- _class: matrix reveal reveal-2 -->
+
+![bg](images/backgrounds/light-background.png)
+
+| | Slow | Fast |
+| :--- | :---: | :---: |
+| High benefit | Tough conversations | Call an incident |
+| Low benefit | Jira | Hand it to an agent |
+
+---
+
+<!-- _class: matrix reveal reveal-3 -->
+
+![bg](images/backgrounds/light-background.png)
+
+| | Slow | Fast |
+| :--- | :---: | :---: |
+| High benefit | Tough conversations | Call an incident |
+| Low benefit | Jira | Hand it to an agent |
 
 ---
 
