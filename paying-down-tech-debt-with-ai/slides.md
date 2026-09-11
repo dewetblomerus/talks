@@ -143,6 +143,23 @@ footer: '![logo](images/backgrounds/logo.png)'
     height: 240px;
   }
 
+  /* Progressive bullets: every step slide carries the whole list, so the
+     heading and bullets never move. Unrevealed bullets keep their space.
+     Use `_class: reveal` for the heading alone, then `reveal reveal-N`
+     to show the first N bullets. */
+  section.reveal li {
+    visibility: hidden;
+  }
+
+  section.reveal-1 li:nth-child(-n + 1),
+  section.reveal-2 li:nth-child(-n + 2),
+  section.reveal-3 li:nth-child(-n + 3),
+  section.reveal-4 li:nth-child(-n + 4),
+  section.reveal-5 li:nth-child(-n + 5),
+  section.reveal-6 li:nth-child(-n + 6) {
+    visibility: visible;
+  }
+
 </style>
 
 ![bg](images/backgrounds/light-background.png)
@@ -154,6 +171,26 @@ footer: '![logo](images/backgrounds/logo.png)'
 <!-- _class: full-image -->
 
 ![Vasa](images/vasa.avif)
+
+---
+
+<!-- _class: reveal -->
+
+![bg](images/backgrounds/light-background.png)
+
+# The Tradeoff
+- Debt is faster to pay off
+- Debt is much faster to accrue
+
+---
+
+<!-- _class: reveal reveal-1 -->
+
+![bg](images/backgrounds/light-background.png)
+
+# The Tradeoff
+- Debt is faster to pay off
+- Debt is much faster to accrue
 
 ---
 
@@ -190,6 +227,8 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 ---
 
+<!-- _class: reveal -->
+
 ![bg](images/backgrounds/light-background.png)
 
 # Hard to pay later: architecture
@@ -198,6 +237,75 @@ footer: '![logo](images/backgrounds/logo.png)'
   - A consistent API contract
 
 ---
+
+<!-- _class: reveal reveal-1 -->
+
+![bg](images/backgrounds/light-background.png)
+
+# Hard to pay later: architecture
+  - A good system design
+  - A good database schema
+  - A consistent API contract
+
+---
+
+<!-- _class: reveal reveal-2 -->
+
+![bg](images/backgrounds/light-background.png)
+
+# Hard to pay later: architecture
+  - A good system design
+  - A good database schema
+  - A consistent API contract
+
+---
+
+![bg](images/backgrounds/light-background.png)
+
+# Hard to pay later: architecture
+  - A good system design
+  - A good database schema
+  - A consistent API contract
+
+---
+
+<!-- _class: reveal -->
+
+![bg](images/backgrounds/light-background.png)
+
+# Hard to pay later: safety nets
+  - Observability coverage & consistency
+  - Canary deploys
+  - Dependabot
+  - CI checks: Test coverage, security checks, linting, formatting, large-file checks, duplicate-code checks, etc.
+
+---
+
+<!-- _class: reveal reveal-1 -->
+
+![bg](images/backgrounds/light-background.png)
+
+# Hard to pay later: safety nets
+  - Observability coverage & consistency
+  - Canary deploys
+  - Dependabot
+  - CI checks: Test coverage, security checks, linting, formatting, large-file checks, duplicate-code checks, etc.
+
+---
+
+<!-- _class: reveal reveal-2 -->
+
+![bg](images/backgrounds/light-background.png)
+
+# Hard to pay later: safety nets
+  - Observability coverage & consistency
+  - Canary deploys
+  - Dependabot
+  - CI checks: Test coverage, security checks, linting, formatting, large-file checks, duplicate-code checks, etc.
+
+---
+
+<!-- _class: reveal reveal-3 -->
 
 ![bg](images/backgrounds/light-background.png)
 
@@ -211,10 +319,86 @@ footer: '![logo](images/backgrounds/logo.png)'
 
 ![bg](images/backgrounds/light-background.png)
 
+# Hard to pay later: safety nets
+  - Observability coverage & consistency
+  - Canary deploys
+  - Dependabot
+  - CI checks: Test coverage, security checks, linting, formatting, large-file checks, duplicate-code checks, etc.
+
+---
+
+<!-- _class: reveal -->
+
+![bg](images/backgrounds/light-background.png)
+
 # Yes to all of the following? Easy!
   - Easy to verify it doesn't break anything
   - Can be deployed as a single change in a single repo
   - The directories containing the code communicates low-risk.
+
+---
+
+<!-- _class: reveal reveal-1 -->
+
+![bg](images/backgrounds/light-background.png)
+
+# Yes to all of the following? Easy!
+  - Easy to verify it doesn't break anything
+  - Can be deployed as a single change in a single repo
+  - The directories containing the code communicates low-risk.
+
+---
+
+<!-- _class: reveal reveal-2 -->
+
+![bg](images/backgrounds/light-background.png)
+
+# Yes to all of the following? Easy!
+  - Easy to verify it doesn't break anything
+  - Can be deployed as a single change in a single repo
+  - The directories containing the code communicates low-risk.
+
+---
+
+![bg](images/backgrounds/light-background.png)
+
+# Yes to all of the following? Easy!
+  - Easy to verify it doesn't break anything
+  - Can be deployed as a single change in a single repo
+  - The directories containing the code communicates low-risk.
+
+---
+
+<!-- _class: reveal -->
+
+![bg](images/backgrounds/light-background.png)
+
+# Some things I've done at work to pay down tech debt
+  - With the exception of Canary deploys...
+  - Reducing cyclic dependencies
+  - Fixing flaky tests
+
+---
+
+<!-- _class: reveal reveal-1 -->
+
+![bg](images/backgrounds/light-background.png)
+
+# Some things I've done at work to pay down tech debt
+  - With the exception of Canary deploys...
+  - Reducing cyclic dependencies
+  - Fixing flaky tests
+
+---
+
+<!-- _class: reveal reveal-2 -->
+
+![bg](images/backgrounds/light-background.png)
+
+# Some things I've done at work to pay down tech debt
+  - With the exception of Canary deploys...
+  - Reducing cyclic dependencies
+  - Fixing flaky tests
 
 ---
 
